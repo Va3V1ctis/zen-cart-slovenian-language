@@ -7,4 +7,4 @@
  * @version $Id: Author: DrByte  Thu Jan 7 14:19:15 2016 -0500 New in v1.5.5 $
  */
 
-  define('EDITOR_CKEDITOR', 'CKEditor');
+  define('EDITOR_CKEDITOR', 'CK Urejevalnik');
