@@ -6,5 +6,5 @@
  * @version $Id: Scott C Wilson 2020 May 12 Modified in v1.5.7 $
  */
 
-define('HEADING_TITLE', 'Admin Account');
+define('HEADING_TITLE', 'Račun administratorja');
 require DIR_WS_LANGUAGES . $_SESSION['language'] . '/' . 'users.php'; 

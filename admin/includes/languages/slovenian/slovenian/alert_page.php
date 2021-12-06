@@ -5,9 +5,9 @@
  * @version $Id: DrByte 2020 Apr 18 Modified in v1.5.7 $
  */
 
-define('HEADING_TITLE', 'Warning!');
-define('ALERT_PART1', 'Warning: You cannot access the admin area until you have');
-define('ALERT_RENAME_ADMIN', 'renamed the admin folder.');
-define('ALERT_REMOVE_ZCINSTALL', 'deleted the zc_install folder.<br>(Use your FTP program or your hosting control panel.)');
-define('ADMIN_RENAME_FAQ_NOTE', 'Help for renaming the admin folder can be found here');
-define('ALERT_PART2', 'Then, to access your admin area, type the admin URL into your browser, ie: <u>http://www.your_site.com/YourAdminFolder/</u> ');
+define('HEADING_TITLE', 'Opozorilo!');
+define('ALERT_PART1', 'Opozorilo: Ne morete dostopati dokler');
+define('ALERT_RENAME_ADMIN', 'ne preimnenujete mape administrator.');
+define('ALERT_REMOVE_ZCINSTALL', 'izbrišete mape zc_install.<br>(Uporabite FTP program ali pa mapo zbrišite preko Cpanel vmesnika.)');
+define('ADMIN_RENAME_FAQ_NOTE', 'Pomoč za preimenovanje mape najdete tukaj');
+define('ALERT_PART2', 'Potem, ponovno dostopajte do mape preko preimneovane mape, primer: <u>http://www.vasa_spletna_stran.si/premimenovana_mapa/</u> ');

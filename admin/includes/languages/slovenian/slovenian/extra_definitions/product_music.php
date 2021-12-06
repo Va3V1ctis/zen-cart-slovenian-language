@@ -19,12 +19,12 @@
 // +----------------------------------------------------------------------+
 //  $Id: product_music.php 1105 2005-04-04 22:05:35Z birdbrain $
 //
-define('BOX_CATALOG_RECORD_ARTISTS', 'Record Artists');
-define('BOX_CATALOG_RECORD_COMPANY', 'Record Companies');
-define('BOX_CATALOG_MUSIC_GENRE', 'Music Genre');
-define('BOX_CATALOG_MEDIA_MANAGER', 'Media Manager');
-define('BOX_CATALOG_MEDIA_TYPES', 'Media Types');
+define('BOX_CATALOG_RECORD_ARTISTS', 'Glasbeniki');
+define('BOX_CATALOG_RECORD_COMPANY', 'Založniki');
+define('BOX_CATALOG_MUSIC_GENRE', 'Zvrst glasbe');
+define('BOX_CATALOG_MEDIA_MANAGER', 'Urejevalnik medija');
+define('BOX_CATALOG_MEDIA_TYPES', 'Tip medija');
 
-define('TEXT_PRODUCTS_RECORD_ARTIST', 'Recording Artist:');
-define('TEXT_PRODUCTS_RECORD_COMPANY', 'Record Company:');
-define('TEXT_PRODUCTS_MUSIC_GENRE', 'Music Genre:');
+define('TEXT_PRODUCTS_RECORD_ARTIST', 'Glasebnik:');
+define('TEXT_PRODUCTS_RECORD_COMPANY', 'Založnik:');
+define('TEXT_PRODUCTS_MUSIC_GENRE', 'Zvrst glasbe:');

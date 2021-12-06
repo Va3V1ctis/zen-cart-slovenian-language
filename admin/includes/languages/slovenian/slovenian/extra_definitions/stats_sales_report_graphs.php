@@ -6,5 +6,5 @@
  * @version $Id: torvista 2019 Jun 16 Modified in v1.5.7 $
  */
 
-define('BOX_REPORTS_SALES_REPORT_GRAPHS', 'Sales Report with Graphs');
+define('BOX_REPORTS_SALES_REPORT_GRAPHS', 'Poročilo prodaje z grafi');
 
